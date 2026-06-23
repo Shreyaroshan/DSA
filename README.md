@@ -20,4 +20,13 @@ All codes documented here in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Shreyaroshan/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Shreyaroshan/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Shreyaroshan/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Shreyaroshan/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
