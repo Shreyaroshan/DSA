@@ -7,6 +7,7 @@ All codes documented here in Java
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shreyaroshan/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/Shreyaroshan/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyaroshan/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,10 +17,12 @@ All codes documented here in Java
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shreyaroshan/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/Shreyaroshan/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyaroshan/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Shreyaroshan/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyaroshan/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyaroshan/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String
 | Problem Name | Difficulty |
